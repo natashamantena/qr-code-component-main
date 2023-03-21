@@ -20,7 +20,8 @@ body {
     Justify-content: center;
     flex-direction: column;
     border-radius: 20px;
-    margin: 12% 40% 12% 40%;
+    margin: center;
+    width: 40vh;
 }
 
 img {
@@ -46,6 +47,7 @@ p {
 
 .attribution { 
     font-size: 11px; text-align: center; 
+    padding: 20px;
 }
 .attribution a { 
     color: hsl(228, 45%, 44%); 
