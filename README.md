@@ -6,6 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 
@@ -17,7 +18,11 @@ The challenge is to create a QRcode page based on the design.
 
 ### Screenshot
 
-![solution](./screenshot.png)
+![solution](./Screenshot.png)
+
+### Links
+[Solution](https://natashamantena.github.io/qr-code-component-main/)
+[Frontend Mentor page](https://www.frontendmentor.io/profile/natashamantena)
 
 ### Built with
 
